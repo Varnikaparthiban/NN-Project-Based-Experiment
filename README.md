@@ -104,6 +104,7 @@ print(classification_report(y_test,x_test_predictions))
 <img width="899" height="427" alt="image" src="https://github.com/user-attachments/assets/5463340d-f3ec-492e-8749-53e8da411961" />
 
 <img width="556" height="413" alt="image" src="https://github.com/user-attachments/assets/452b93ec-2196-4f5e-8748-2274d394b4c7" />
+<br>
 
 <img width="556" height="413" alt="image" src="https://github.com/user-attachments/assets/6ef37b8d-5726-41fc-b526-7d03b546d853" />
 
